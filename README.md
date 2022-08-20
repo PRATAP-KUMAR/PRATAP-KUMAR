@@ -6,7 +6,7 @@
 
 [![variable](https://github-readme-stats.vercel.app/api?username=PRATAP-KUMAR&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![variable](https://github-readme-streak-stats.herokuapp.com/?user=PRATAP-KUMAR)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PRATAP-KUMAR&theme=merko)](https://git.io/streak-stats)
 
 [![variable](https://github-readme-stats.vercel.app/api/top-langs/?username=PRATAP-KUMAR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
