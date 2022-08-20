@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning HTML & CSS, Ruby, Databases, Ruby on Rails, JavaScript, React & Redux, Algorithms, Data Structures
-- 👯 I’m looking to collaborate on Front End Developing Projects
+- 👯 I’m looking to collaborate on Full Stack Developing Projects
 - 😄 Pronouns: He/Him
 
 [![variable](https://github-readme-stats.vercel.app/api?username=PRATAP-KUMAR&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
