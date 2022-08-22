@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am PRATAP PANABAKA
 
 - 🌱 I’m currently learning HTML & CSS, Ruby, Databases, Ruby on Rails, JavaScript, React & Redux, Algorithms, Data Structures
 - 👯 I’m looking to collaborate on Full Stack Developing Projects
