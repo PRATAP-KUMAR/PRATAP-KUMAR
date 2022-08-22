@@ -4,6 +4,8 @@
 - 👯 I’m looking to collaborate on Full Stack Developing Projects
 - 😄 Pronouns: He/Him
 
+![](https://komarev.com/ghpvc/?username=PRATAP-KUMAR)
+
 Have a look at my Contributions to open source projects  
 - [AskUbuntu - An online Q&A forum](https://askubuntu.com/users/739431/unknown)  
 - [Gnome Extensions](https://extensions.gnome.org/accounts/profile/pratap@fastmail.fm)
