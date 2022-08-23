@@ -4,13 +4,19 @@
 - 👯 I’m looking to collaborate on Full Stack Developing Projects
 - 😄 Pronouns: He/Him
 
-- Stack: JavaScript, Ruby, Ruby on Rails, React & Redux, Python
+---
 
-![](https://komarev.com/ghpvc/?username=PRATAP-KUMAR)
+#### Tech Stack: JavaScript, Ruby, Ruby on Rails, React & Redux, Python
+
+---
 
 Have a look at my Contributions to open source projects  
 - [AskUbuntu - An online Q&A forum](https://askubuntu.com/users/739431/unknown)  
 - [Gnome Extensions](https://extensions.gnome.org/accounts/profile/pratap@fastmail.fm)
+
+---
+
+![](https://komarev.com/ghpvc/?username=PRATAP-KUMAR)
 
 [![variable](https://github-readme-stats.vercel.app/api?username=PRATAP-KUMAR&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
