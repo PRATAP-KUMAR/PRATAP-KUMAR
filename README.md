@@ -4,6 +4,8 @@
 - 👯 I’m looking to collaborate on Full Stack Developing Projects
 - 😄 Pronouns: He/Him
 
+- Stack: JavaScript, Ruby, Ruby on Rails, React & Redux, Python
+
 ![](https://komarev.com/ghpvc/?username=PRATAP-KUMAR)
 
 Have a look at my Contributions to open source projects  
