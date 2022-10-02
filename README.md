@@ -7,7 +7,7 @@
 
 ---
 
-#### Tech Stack: JavaScript, Ruby, Ruby on Rails, React & Redux, Python
+#### Tech Stack: JavaScript, React & Redux, Ruby, Ruby on Rails, Python
 
 ---
 
