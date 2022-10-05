@@ -19,9 +19,9 @@ Have a look at my Contributions to open source projects
 
 ![](https://komarev.com/ghpvc/?username=PRATAP-KUMAR)
 
-[![variable](https://github-readme-stats.vercel.app/api?username=PRATAP-KUMAR&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![variable](https://github-readme-stats.vercel.app/api?username=PRATAP-KUMAR&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![variablek](http://github-readme-streak-stats.herokuapp.com?user=PRATAP-KUMAR&theme=merko)](https://git.io/streak-stats)
+[![variable](http://github-readme-streak-stats.herokuapp.com?user=PRATAP-KUMAR&theme=merko)](https://git.io/streak-stats)
 
 [![variable](https://github-readme-stats.vercel.app/api/top-langs/?username=PRATAP-KUMAR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
