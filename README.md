@@ -1,9 +1,11 @@
-### Hi there 👋, I am PRATAP PANABAKA, Full Stack Developer
+### Hi there 👋, I am PRATAP PANABAKA, Full Stack Developer 
 
 - 🌱 I have studied HTML & CSS, JavaScript, React & Redux, Data Structures, Algorithms
 - 🌱 I’m currently learning Ruby and will learn Ruby on Rails next month.
 - 👯 I’m looking to collaborate on Full Stack Developing Projects
 - 😄 Pronouns: He/Him
+
+![](./giphy.gif)
 
 ---
 
