@@ -1,7 +1,7 @@
 ### Hi there this is PRATAP PANABAKA, Full Stack Web Developer 
 
-- I have completed curriculum on HTML & CSS, JavaScript, React & Redux, Ruby, Ruby on Rails, Data Structures, Algorithms
-- I am looking to collaborate on Full Stack Developing Projects
+- I have completed curriculum on Data Structures, Algorithms, HTML & CSS, JavaScript, React & Redux, Ruby, Ruby on Rails
+- I am looking to collaborate on Full Stack Web Development Projects
 - Pronouns: He/Him
 
 ![full-stack-development](https://user-images.githubusercontent.com/40719899/205479251-ffba5354-583f-491b-a1ef-ce919083e2b1.gif)
