@@ -12,9 +12,9 @@
 
 ---
 
-Have a look at my Contributions to open source projects  
-- [AskUbuntu - An online Q&A forum](https://askubuntu.com/users/739431/unknown)  
+Have a look at my Contributions to open source projects
 - [Gnome Extensions](https://extensions.gnome.org/accounts/profile/pratap@fastmail.fm)
+- [AskUbuntu - An online Q&A forum](https://askubuntu.com/users/739431/unknown)  
 
 ---
 
