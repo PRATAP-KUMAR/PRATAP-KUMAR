@@ -1,4 +1,4 @@
-### Hi there this is PRATAP PANABAKA, Full Stack Web Developer 
+### Hi, I am PRATAP PANABAKA, Full Stack Web Developer 
 
 - I have completed curriculum on Data Structures, Algorithms, HTML & CSS, JavaScript, React & Redux, Ruby, Ruby on Rails
 - I am looking to collaborate on Full Stack Web Development Projects
