@@ -8,7 +8,7 @@
 
 ---
 
-#### Tech Stack: JavaScript | React & Redux | Ruby | Ruby on Rails | PostgreSQL | Python
+#### Tech Stack: JavaScript | React & Redux | Ruby | Ruby on Rails | PostgreSQL | MySQL | Python
 
 ---
 
