@@ -1,6 +1,7 @@
 ### Hi, I am PRATAP PANABAKA, Full Stack Web Developer 
 
-- I have completed a curriculum on HTML & CSS, JavaScript, React with Redux, Ruby and Ruby on Rails. Also on Data Structures and Algorithms.
+- Have completed Fast-paced bootcamp from Microverse Inc, San Francisco - Full Time - Remote
+- Tech Stack are HTML & CSS, JavaScript, React with Redux, Ruby and Ruby on Rails.
 - I am looking to collaborate on Full Stack Web Development Projects
 - Pronouns: He/Him
 
