@@ -15,7 +15,7 @@
 
 Have a look at my contributions to open source projects
 - [Gnome Extensions](https://extensions.gnome.org/accounts/profile/PRATAP)
-- [AskUbuntu - An online Q&A forum](https://askubuntu.com/users/739431/unknown)
+- [AskUbuntu - An online Q&A forum Stack Exchange](https://askubuntu.com/users/739431/unknown)
 - <a href="https://stackexchange.com/users/11820090"><img src="https://stackexchange.com/users/flair/11820090.png" width="208" height="58" alt="profile for PRATAP on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for PRATAP on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 ---
