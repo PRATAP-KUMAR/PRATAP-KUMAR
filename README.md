@@ -20,7 +20,7 @@ Have a look at my contributions to open source projects
 
 ---
 
-![](https://komarev.com/ghpvc/?username=PRATAP-KUMAR)
+![](https://komarev.com/ghpvc/?username=PRATAP-KUM)
 
 [![variable](https://github-readme-stats.vercel.app/api?username=PRATAP-KUMAR&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
