@@ -1,6 +1,6 @@
 ### Hi, I am PRATAP PANABAKA, Full Stack Web Developer 
 
-- Have completed Fast-paced bootcamp on Full Stack Web Development from <a href='https://microverse.org' target="_blank" rel="noopener">Microverse Inc, San Francisco - Full Time - Remote</a>
+- Have completed Fast-paced bootcamp on Full Stack Web Development from <a href='https://microverse.org'>Microverse Inc, San Francisco - Full Time - Remote</a>
 - Tech Stack are HTML & CSS, JavaScript, React with Redux, Ruby and Ruby on Rails.
 - Pronouns: He/Him
 
