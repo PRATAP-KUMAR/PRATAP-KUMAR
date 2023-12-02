@@ -3,6 +3,7 @@
 - Have completed Fast-paced bootcamp on Full Stack Web Development from <a href='https://microverse.org'>Microverse Inc, San Francisco - Full Time - Remote</a>
 - Tech Stack are HTML & CSS, JavaScript, React with Redux, Ruby and Ruby on Rails.
 - Pronouns: He/Him
+- Code contribution to Opensource projects on daily basis using tech stack GJS (GNOME JavaScript)
 
 ![full-stack-development](https://user-images.githubusercontent.com/40719899/205479251-ffba5354-583f-491b-a1ef-ce919083e2b1.gif)
 
