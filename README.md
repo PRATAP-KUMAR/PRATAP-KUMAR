@@ -1,4 +1,4 @@
-### Hi, I am PRATAP PANABAKA, Freelance Full Stack Web Developer & Open-source software developer, Linux enthusiast. Intrested in Arch Linux OS.
+### Hi, I am PRATAP PANABAKA, Freelance Full Stack Web Developer & Open-source software developer, Linux enthusiast. Uses Arch Linux OS.
 
 - Have completed Fast-paced bootcamp on Full Stack Web Development from <a href='https://microverse.org'>Microverse Inc, San Francisco - Full Time - Remote</a>
 - Tech Stack are HTML & CSS, JavaScript, React with Redux, Ruby and Ruby on Rails.
