@@ -5,7 +5,7 @@
 - Code contributor to Opensource projects on daily basis using tech stack JavaScript (GJS - GNOME JavaScript)
 - Pronouns: He/Him
 
-![full-stack-development](https://user-images.githubusercontent.com/40719899/205479251-ffba5354-583f-491b-a1ef-ce919083e2b1.gif)
+![full-stack-web-development](https://user-images.githubusercontent.com/40719899/205479251-ffba5354-583f-491b-a1ef-ce919083e2b1.gif)
 
 ---
 
