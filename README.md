@@ -1,7 +1,7 @@
 ### Hi, I am PRATAP PANABAKA, Freelance Full Stack Web Developer & open-source software developer, Linux enthusiast. Uses Arch Linux OS.
 
 - Have completed Fast-paced bootcamp on Full Stack Web Development from <a href='https://microverse.org'>Microverse Inc, San Francisco - Full Time - Remote</a>
-- Tech Stack are HTML & CSS, JavaScript, React with Redux, Ruby and Ruby on Rails.
+- Good with JavaScript and React. Leaving RoR and Learning MERN Stack.
 - Code contributor to Opensource projects on daily basis using tech stack JavaScript (GJS - GNOME JavaScript)
 - Pronouns: He/Him
 
@@ -9,7 +9,7 @@
 
 ---
 
-#### Tech Stack: JavaScript | React & Redux | Ruby | Ruby on Rails | PostgreSQL | MySQL | Python
+#### Tech Stack: JavaScript | React & Redux | MERN | SQL | Python
 
 ---
 
