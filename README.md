@@ -1,6 +1,5 @@
-### Hi, I am PRATAP PANABAKA, Freelance Full Stack Web Developer & open-source software developer, Linux enthusiast. Uses Arch Linux OS.
-
-- Have completed Fast-paced bootcamp on Full Stack Web Development from <a href='https://microverse.org'>Microverse Inc, San Francisco - Full Time - Remote</a>
+### Hi, I am PRATAP PANABAKA, Freelance Full Stack Web Developer & open-source software developer, Linux enthusiast.
+Have completed Fast-paced bootcamp on Full Stack Web Development from <a href='https://microverse.org'>Microverse Inc, San Francisco - Full Time - Remote</a>
 - Good with JavaScript and React. Leaving RoR and Learning MERN Stack.
 - Code contributor to Opensource projects on daily basis using tech stack JavaScript (GJS - GNOME JavaScript)
 - Pronouns: He/Him
