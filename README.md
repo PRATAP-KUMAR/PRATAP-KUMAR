@@ -1,5 +1,5 @@
-### Hi, I am PRATAP PANABAKA, Freelance Full Stack Web Developer & open-source software developer, Linux enthusiast.
-Have completed Fast-paced bootcamp on Full Stack Web Development from <a href='https://microverse.org'>Microverse Inc, San Francisco - Full Time - Remote</a>
+### Hi, I am PRATAP PANABAKA, a Freelance Full Stack Web Developer & open-source software developer, and Linux enthusiast.
+Have completed Fast-paced boot camp on Full Stack Web Development from <a href='https://microverse.org'>Microverse Inc, San Francisco - Full Time - Remote</a>
 - Good with JavaScript and React. Leaving RoR and Learning MERN Stack.
 - Code contributor to Opensource projects on daily basis using tech stack JavaScript (GJS - GNOME JavaScript)
 - Pronouns: He/Him
@@ -12,7 +12,7 @@ Have completed Fast-paced bootcamp on Full Stack Web Development from <a href='h
 
 ---
 
-Have a look at my contributions to open source projects below
+Have a look at my contributions to open-source projects below
 - [Gnome Extensions](https://extensions.gnome.org/accounts/profile/PRATAP)
 - [Stack Exchange - AskUbuntu](https://askubuntu.com/users/739431/pratap)
 - <a href="https://stackexchange.com/users/11820090" target="_blank" rel="noopener"><img src="https://stackexchange.com/users/flair/11820090.png" width="208" height="58" alt="profile for PRATAP on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for PRATAP on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
