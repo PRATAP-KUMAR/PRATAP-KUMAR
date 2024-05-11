@@ -8,7 +8,7 @@ Have completed Fast-paced boot camp on Full Stack Web Development from <a href='
 
 ---
 
-#### Tech Stack: JavaScript | React & Redux | MERN | SQL | Python
+#### Tech Stack: JavaScript | React & Redux | MERN | SQL | Python | Express
 
 ---
 
