@@ -1,7 +1,7 @@
 ### Hi, I am PRATAP PANABAKA, a Freelance Full Stack Web Developer & open-source software developer, Linux enthusiast.
 Have completed Fast-paced boot camp on Full Stack Web Development from <a href='https://microverse.org'>Microverse Inc, San Francisco - Full Time - Remote</a>
 - Good with JavaScript and React. Improving skills with PostgreSQL and ExpressJS by connecting them to build a Full Stack Web App.
-- Code contributor to Opensource projects using tech stack JavaScript (GJS - GNOME JavaScript)
+- Contributing to GNOME extensions by creating and maintaining gnome-shell extensions since 2018.
 - Pronouns: He/Him
 
 ![full-stack-web-development](https://user-images.githubusercontent.com/40719899/205479251-ffba5354-583f-491b-a1ef-ce919083e2b1.gif)
