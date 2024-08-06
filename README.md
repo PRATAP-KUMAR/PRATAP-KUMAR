@@ -1,6 +1,6 @@
 ### Hi, I am PRATAP PANABAKA, a Freelance Full Stack Web Developer & open-source software developer, Linux enthusiast.
 Have completed Fast-paced boot camp on Full Stack Web Development from <a href='https://microverse.org'>Microverse Inc, San Francisco - Full Time - Remote</a>
-- Good with JavaScript and React. Improving skills in MERN Stack.
+- Good with JavaScript and React. Improving skills with PostgreSQL and ExpressJS by connecting them to build a Full Stack Web App.
 - Code contributor to Opensource projects using tech stack JavaScript (GJS - GNOME JavaScript)
 - Pronouns: He/Him
 
@@ -8,7 +8,7 @@ Have completed Fast-paced boot camp on Full Stack Web Development from <a href='
 
 ---
 
-#### Tech Stack: JavaScript | React & Redux | Mongoose | ExpressJS | NodeJS | MERN | SQL | Python |
+#### Tech Stack: JavaScript | PostgreSQL | ExpressJS | ReactJS | NodeJS
 
 ---
 
