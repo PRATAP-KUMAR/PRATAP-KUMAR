@@ -6,7 +6,7 @@
 
 ---
 
-#### Tech Stack: JavaScript | ReactJS | NodeJS | ExpressJS | RostgreSQL | MongoDB
+#### Tech Stack: JavaScript | ReactJS | NodeJS | ExpressJS | PostgreSQL | MongoDB
 
 ---
 
