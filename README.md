@@ -6,7 +6,7 @@
 
 ---
 
-#### Tech Stack: JavaScript | ReactJS | NextJS | NodeJS | ExpressJS
+#### JavaScript | ReactJS | NextJS | NodeJS | ExpressJS | Tailwind CSS
 
 ---
 
